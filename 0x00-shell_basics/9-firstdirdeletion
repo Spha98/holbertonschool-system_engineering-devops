@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir /tmp/0x00-shell_basics/
+rmdir /tmp/my_first_directory/
