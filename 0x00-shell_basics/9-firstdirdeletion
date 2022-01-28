@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir /tmp/holberton-system_engineering-devops
+rmdir /tmp/0x00-shell_basics/
